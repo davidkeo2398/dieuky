@@ -1,0 +1,17 @@
+{
+  "name": "heart",
+  "homepage": "https://github.com/davidkeo2398.github.io/dieuky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
