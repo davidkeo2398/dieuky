@@ -1,0 +1,24 @@
+{
+  "name": "dieuky",
+  "homepage": "https://github.com/davidkeo2398.github.io/dieuky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkeo2398/dieuky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkeo2398/dieuky/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
